@@ -2,7 +2,7 @@
 
 Using lombok, jandex index for indexing modules, Quarkus 2.4.2.Final.
 
-It contains two modules quickstart-core and quickstart-rest, but it can be separated to more
+It contains two modules quarkus-nostr-relay-core and quarkus-nostr-relay-rest, but it can be separated to more
 modules (html, runner, services, etc.)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
