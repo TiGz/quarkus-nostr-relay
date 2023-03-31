@@ -1,4 +1,4 @@
-# quarkus-2-multi-module-project-quickstart Project
+# Quarkus Nostr Relay
 
 Using lombok, jandex index for indexing modules, Quarkus 2.4.2.Final.
 
